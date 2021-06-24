@@ -1,0 +1,25 @@
+{
+  "name": "ninecoin",
+  "logoURI": "https://github.com/superninecoins/CoinLists/assets/logo.png",
+  "keywords": [
+      "ninecoin",
+      "ninecoin",
+      "yield"
+    ],
+    "timestamp": "2021-06-24T23:40:34.305Z",
+    "tokens": [
+      {
+      "chainId": 1,
+      "address": "0x000000000000000000000000000000",
+      "name": "ninecoin",
+      "symbol": "ninecoin",
+      "decimals": 18,
+      "logoURI": "https://github.com/superninecoins/CoinLists/assets/logo.png"
+      }
+    ],
+    "version": {
+      "major": 0,
+      "minor": 0,
+      "patch": 0
+    }
+}
