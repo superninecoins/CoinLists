@@ -1,6 +1,6 @@
 {
   "name": "ninecoin",
-  "logoURI": "https://github.com/superninecoins/CoinLists/assets/logo.png",
+  "logoURI": "https://raw.githubusercontent.com/superninecoins/CoinLists/main/assets/logo.png",
   "keywords": [
       "ninecoin",
       "ninecoin",
@@ -14,7 +14,7 @@
       "name": "ninecoin",
       "symbol": "ninecoin",
       "decimals": 18,
-      "logoURI": "https://github.com/superninecoins/CoinLists/assets/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/superninecoins/CoinLists/main/assets/logo.png"
       }
     ],
     "version": {
