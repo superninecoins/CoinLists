@@ -2,22 +2,21 @@
   "name": "nine",
   "logoURI": "https://raw.githubusercontent.com/superninecoins/CoinLists/main/assets/logo.png",
   "keywords": [
-      "nine",
-      "nine",
-      "yield"
-    ],
-    "timestamp": "2021-06-24T23:40:34.305Z",
-    "tokens": [
-      {
+    "nine",
+    "nine"
+  ],
+  "timestamp": "2021-06-27T00:37:00.000+00:00",
+  "tokens": [
+    {
       "chainId": 1,
       "address": "0x6a3aAB575838119ADCBE42063bf60bb4f8063f40",
       "name": "nine",
-      "symbol": "nine",
+      "symbol": "NINECOINS",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/superninecoins/CoinLists/main/assets/logo.png"
-      }
-    ],
-    "version": {
+    }
+  ],
+  "version": {
       "major": 0,
       "minor": 0,
       "patch": 0
